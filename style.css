@@ -20,7 +20,7 @@ body{
 .pagename{
   height: 80px;
   line-height: 80px;
-  background: RosyBrown;
+  background: BabyBlue;
   font-family: 'Lobster';
   font-size: 1.2em;
   text-align: center;  
@@ -70,13 +70,13 @@ body{
 }
 .index{
   outline-style: double;
-  outline-color: RosyBrown;
+  outline-color: BabyBlue;
   border-radius: 5px;
   font-style:italic;
   text-align: center;
-  border-left: 15px solid RosyBrown;
+  border-left: 15px solid BabyBlue;
   background-color: lightgrey;
-  border-right: 15px solid RosyBrown;
+  border-right: 15px solid BabyBlue;
   font-family: 'Roboto';
 }
 .name{
@@ -123,12 +123,9 @@ video{
   font-size: 1em;
   width: auto;
   clear: both;
-  background: RosyBrown;
+  background: BabyBlue;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   height: 50px;
   line-height: 50px;
-}
-section {
-  margin 10px;
 }
