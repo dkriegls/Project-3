@@ -20,7 +20,7 @@ body{
 .pagename{
   height: 80px;
   line-height: 80px;
-  background: BabyBlue;
+  background: LightBlue;
   font-family: 'Lobster';
   font-size: 1.2em;
   text-align: center;  
@@ -70,20 +70,20 @@ body{
 }
 .index{
   outline-style: double;
-  outline-color: BabyBlue;
+  outline-color:LightBlue;
   border-radius: 5px;
   font-style:italic;
   text-align: center;
-  border-left: 15px solid BabyBlue;
+  border-left: 15px solid LightBlue;
   background-color: lightgrey;
-  border-right: 15px solid BabyBlue;
+  border-right: 15px solid LightBlue;
   font-family: 'Roboto';
 }
 .name{
   text-transform: capitalize;
   text-align: center;
   font-family: 'Sniglet';
-  border: 6px solid RosyBrown;
+  border: 6px solid LightBlue;
   border-top-style: dotted;
   border-right-style: solid;
   border-bottom-style: dotted;
@@ -91,7 +91,7 @@ body{
 }
 .home{
   outline-style: dashed;
-  outline-color: RosyBrown;
+  outline-color: LightBlue;
   margin: 15px 20px 55px;
   word-wrap: break-word;
   text-shadow: 0 0 3px #BC8F8F;
@@ -123,7 +123,7 @@ video{
   font-size: 1em;
   width: auto;
   clear: both;
-  background: BabyBlue;
+  background: LightBlue;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   height: 50px;
