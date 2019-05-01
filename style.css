@@ -1,0 +1,131 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Srisakdi);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Sniglet);
+@import url(https://fonts.googleapis.com/css?family=Poppins);
+body{
+  background-color: #FFFAFA;
+  margin-left: auto;
+  margin-right: auto;
+}
+.menu{
+  text-align: center;
+}
+.menu ul li {
+  padding: 0.5%;
+  font-family: 'Lobster';
+  font-size: 1.2em;
+  display: inline;
+}
+.pagename{
+  height: 80px;
+  line-height: 80px;
+  background: RosyBrown;
+  font-family: 'Lobster';
+  font-size: 1.2em;
+  text-align: center;  
+}
+.leftpage{
+  padding: 7%;
+  width: 35%;
+  font-family: Arial, Helvetica, serif;
+  font-size: 1.3em;
+  float: left;
+}
+.rightpage{
+  padding: 7%;
+  width: 35%;
+  min-height: 100%;
+  float:right;
+  text-align: left;
+  font-family: Arial, Helvetica, serif;
+  font-size: 1.3em;
+}
+.container{
+  width: 940px;
+  margin: 0px auto;
+}
+.leftsidecontent{
+  width: 380px;
+  padding: 40px;
+  float: left;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: right;
+}
+.rightsidecontent{
+  width: 460px;
+  padding: 10px;
+  float: right;
+  font-size: 21px;
+  font-family: Arial, Helvetica, sans-serif;  
+  text-align: left;
+}
+.title{
+  text-decoration: underline;
+  box-shadow: 10px 10px 5px grey;
+  border-width:2px;
+  border-style:solid;
+  border-color: #BC8F8F;
+  font-family: 'Srisakdi';
+}
+.index{
+  outline-style: double;
+  outline-color: RosyBrown;
+  border-radius: 5px;
+  font-style:italic;
+  text-align: center;
+  border-left: 15px solid RosyBrown;
+  background-color: lightgrey;
+  border-right: 15px solid RosyBrown;
+  font-family: 'Roboto';
+}
+.name{
+  text-transform: capitalize;
+  text-align: center;
+  font-family: 'Sniglet';
+  border: 6px solid RosyBrown;
+  border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;  
+}
+.home{
+  outline-style: dashed;
+  outline-color: RosyBrown;
+  margin: 15px 20px 55px;
+  word-wrap: break-word;
+  text-shadow: 0 0 3px #BC8F8F;
+  font-family: 'Poppins';
+  text-align: left;
+}
+.background{
+  background-color: #FFE4E1;
+}
+.image{
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+img{
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 110px;
+}
+video{
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+.footer{
+  font-size: 1em;
+  width: auto;
+  clear: both;
+  background: RosyBrown;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 50px;
+  line-height: 50px;
+}
