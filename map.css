@@ -1,0 +1,13 @@
+#map {
+  width: 700px;
+  height: 500px;
+  margin: 25px auto;
+  
+  outline: 1px solid RosyBrown;  
+  outline-style: outset;
+  outline-width: thick;
+  outline-offset: 10px;
+  
+  overflow: visible;
+  box-sizing: border-box;
+}
