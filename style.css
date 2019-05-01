@@ -86,7 +86,7 @@ body{
   border: 6px solid LightBlue;
   border-top-style: dotted;
   border-right-style: solid;
-  border-bottom-style: dotted;
+  border-bottom-style: solid;
   border-left-style: solid;  
 }
 .home{
